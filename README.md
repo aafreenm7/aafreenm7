@@ -1,7 +1,7 @@
-<!-- Animated header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Aafreen%20Mujawar&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+tech+solutions+for+real-world+problems;Hackathon+enthusiast+%F0%9F%9A%80;Learning+AI%2FML+%7C+DSA+%7C+React+%7C+Python;What+if...+let's+build+it!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Aafreen%20Mujawar&fontSize=40&fontAlignY=38" width="100%" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=50&lines=Building+tech+solutions+for+real-world+problems;Hackathon+enthusiast+%F0%9F%9A%80;Learning+AI%2FML+%7C+DSA+%7C+React+%7C+Python;What+if...+let's+build+it!" alt="Typing SVG" />
 </div>
 
 # 💫 About Me:
@@ -25,12 +25,16 @@
 
 # 🐍 Contribution Snake:
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aafreenm7/aafreenm7/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aafreenm7/aafreenm7/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aafreenm7/aafreenm7/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/aafreenm7/aafreenm7/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 # 📈 Contribution Graph:
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aafreenm7&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aafreenm7&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&area_color=36BCF7&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
 </div>
 
 ---
